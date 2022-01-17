@@ -1,16 +1,11 @@
-# House-Pricing-Regression-Techniques
+# Titanic---Machine-Learning-from-Disaster
+Titanic Kaggle competition submission
 
-This project is based on the Kaggle Competition ["House Prices - Advanced Regression Techniques"](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/). The aim of it was to improve on skills in data science.
+This project was based on several different online notebooks as reference. The objective of this project was to have learn while investigating and watching other people do their own Titanic notebook analysis. The final goal was to mix up several knowledge and procedures and make a submission.
 
 Libraries used:
-* Scikit-learn
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-
-Also, different online sources and notebooks where used as learning material and also try to replicate workframe procedures.
-
-The final submission was made and I was placed 4440 on the leaderboard. 
-
-In the future, further work is going to be made in order to improve the score.
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit Learn
