@@ -1,0 +1,15 @@
+color,hue_deg,saturation_perc,light_perc
+1-beige,60,56,91
+2-black,0,0,0
+3-blue,240,100,50
+4-brown,0,59,41
+5-burgundy,345,100,25
+6-gray,0,0,50
+7-green,120,100,25
+8-navyblue,240,100,25
+9-ofmanycolors,,,
+10-olive,60,100,25
+11-pink,350,100,88
+12-red,0,100,50
+13-violet,300,76,72
+14-white,0,0,100
